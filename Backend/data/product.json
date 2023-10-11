@@ -1,0 +1,19 @@
+[
+  {
+    "name": "sandisc memory",
+    "price": 10000,
+    "description": "sdkjf fdshf sfjhsdf sdfsdf sldfhsd fsdfhsdfsf sdfhsdf sdfhsdf",
+    "rating": 4.5,
+    "image": [
+      {
+        "public_id": "",
+        "url": ""
+      }
+    ],
+    "category": "electronics",
+    "seller": "Ebay",
+    "stock": 50,
+    "numOfReview": 32,
+    "review": []
+  }
+]
