@@ -1,4 +1,6 @@
 const Product = require("../models/Product");
+const ErrorHandler = require("../utils/errorHandler");
+const catchAsyncError = require("../middlewares/catchAsyncErrors");
 
 // get all products => /api/v1/product
 exports.getProducts = async (req, res, next) => {
